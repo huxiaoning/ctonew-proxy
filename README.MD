@@ -19,7 +19,7 @@
 
 
 
-## 1️⃣ [fork](https://github.com/yourname/enginelabs-deno-proxy/fork) 本项目
+## 1️⃣ [fork](https://github.com/mir-xiong/ctonew-proxy/fork) 本项目
 
 点击上方链接 fork 当前仓库到你自己的 GitHub 账户中。
  后续 Deno Deploy 会从你的仓库自动拉取部署。
@@ -34,7 +34,11 @@
 进入 https://dash.deno.com/new_project
  点击 **“+ New Project”** 创建一个新的 Deno 服务。
 
-快速部署点击:[![Deploy to Deno](https://deno.com/deploy.svg)](https://console.deno.com/mir-xiong/~/new)
+快速部署点击:[![Deploy to Deno](https://deno.com/deploy.svg)](https://dash.deno.com/new_project)
+
+
+
+
 
 
 
@@ -60,6 +64,10 @@ Deno Deploy 会自动：
 - 启动 `server.ts` 服务
 
 整个过程通常只需几秒钟。
+
+
+
+![](https://cdn.jsdelivr.net/gh/hans1980775481/picture-bed/img/202510201501807.png)
 
 
 
